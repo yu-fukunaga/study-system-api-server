@@ -35,3 +35,12 @@ $ source ~/.bashrc
 ```
 $ direnv allow .
 ```
+
+## プロジェクト構成
+
+┣ .bin #GOBIN
+┣ .data #MySQL data
+┣ .tmp #air binary
+┣ cmd #main.go
+┣ docker #docker
+┣ graph #GraphQL
